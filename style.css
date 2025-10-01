@@ -1,0 +1,16 @@
+img {
+   width: 300px;
+}
+
+body {
+    text-align: center;
+    font-family: "Arial";
+    font-size: large;
+    background: Plum;
+    color: #b4e4b5;
+}
+
+.textbox {
+    width: 500;
+    height: 200;
+}
